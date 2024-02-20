@@ -5,6 +5,10 @@
     <RouterLink to="/about">About</RouterLink>
     <hr>
     <HelloWorld />
+    <hr>
+    <div>
+      <h4>TEST</h4>
+    </div>
   </div>
 </template>
 
